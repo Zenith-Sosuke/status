@@ -8,6 +8,7 @@ This repository contains the open-source uptime monitor and status page for [Zen
 [![Static Site CI](https://github.com/Zenith-Sosuke/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Zenith-Sosuke/status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/Zenith-Sosuke/status/workflows/Summary%20CI/badge.svg)](https://github.com/Zenith-Sosuke/status/actions?query=workflow%3A%22Summary+CI%22)
 
+
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/Zenith-Sosuke/status/issues) as incident reports, [Actions](https://github.com/Zenith-Sosuke/status/actions) as uptime monitors, and [Pages](https://status.celestia.rest) for the status page.
 
 <!--start: status pages-->
