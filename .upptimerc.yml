@@ -12,3 +12,5 @@ assignees:
 status-website:
   cname: status.celestia.rest
   name: Celestia Status
+  faviconUrl: https://celestia.rest/favicon.ico
+  logoUrl: https://celestia.rest/favicon.ico
