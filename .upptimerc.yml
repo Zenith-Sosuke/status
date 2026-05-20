@@ -3,8 +3,10 @@ repo: status
 sites:
   - name: Website
     url: https://celestia.rest
+  - name: Bot
+    url: http://fi11.bot-hosting.net:20267/api/health
   - name: API
-    url: https://sorayomi-api.onrender.com
+    url: https://sorayomi-api-rr4k.onrender.com
 assignees:
   - Zenith-Sosuke
 status-website:
