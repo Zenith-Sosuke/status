@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fi11.bot-hosting.net.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "96.98%",
-    "time": 1446,
-    "timeDay": 253,
-    "timeWeek": 1562,
-    "timeMonth": 2277,
-    "timeYear": 1446,
+    "uptime": "96.91%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "96.91%",
+    "time": 1430,
+    "timeDay": 332,
+    "timeWeek": 1418,
+    "timeMonth": 2227,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2026-05-23": 115,
       "2026-06-09": 174,
@@ -43,7 +43,8 @@
       "2026-06-24": 144,
       "2026-06-29": 121,
       "2026-06-30": 371,
-      "2026-07-01": 230
+      "2026-07-01": 230,
+      "2026-07-11": 55
     }
   },
   {
