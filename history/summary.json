@@ -22,17 +22,17 @@
     "url": "http://fi11.bot-hosting.net:20267/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/fi11.bot-hosting.net.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "97.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.44%",
-    "uptimeYear": "97.06%",
-    "time": 916,
-    "timeDay": 360,
-    "timeWeek": 373,
-    "timeMonth": 423,
-    "timeYear": 916,
+    "status": "up",
+    "uptime": "96.98%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "96.98%",
+    "time": 911,
+    "timeDay": 333,
+    "timeWeek": 364,
+    "timeMonth": 419,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2026-05-23": 115,
       "2026-06-09": 174,
@@ -50,7 +50,8 @@
       "2026-08-02": 72,
       "2026-08-09": 40,
       "2026-09-08": 1048,
-      "2026-09-07": 1387
+      "2026-09-07": 1387,
+      "2026-09-18": 146
     }
   },
   {
