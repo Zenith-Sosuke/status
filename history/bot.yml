@@ -1,7 +1,7 @@
 url: https://bot.celestia.rest/api/health
-status: down
-code: 530
-responseTime: 86
-lastUpdated: 2026-11-06T17:30:40.341Z
+status: up
+code: 200
+responseTime: 1024
+lastUpdated: 2026-11-06T22:18:53.124Z
 startTime: 2026-05-20T04:30:45.529Z
 generator: Upptime <https://github.com/upptime/upptime>
