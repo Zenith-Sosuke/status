@@ -22,17 +22,17 @@
     "url": "https://bot.celestia.rest/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/bot.celestia.rest.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "90.30%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.31%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.63%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "90.30%",
-    "time": 848,
-    "timeDay": 676,
-    "timeWeek": 580,
-    "timeMonth": 729,
-    "timeYear": 848,
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.31%",
+    "time": 844,
+    "timeDay": 360,
+    "timeWeek": 526,
+    "timeMonth": 710,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2026-05-23": 115,
       "2026-06-09": 174,
@@ -69,7 +69,8 @@
       "2026-10-07": 436,
       "2026-11-06": 288,
       "2026-11-08": 257,
-      "2026-11-15": 440
+      "2026-11-15": 440,
+      "2026-11-18": 0
     }
   },
   {
